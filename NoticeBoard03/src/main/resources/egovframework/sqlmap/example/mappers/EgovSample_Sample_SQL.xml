@@ -69,7 +69,7 @@
 					</when>
 				</choose>
 			</if>
-		) WHERE RN BETWEEN #{firstIndex} AND #{lastIndex}
+		) WHERE RN BETWEEN #{firstIndex} + 1 AND #{lastIndex}
 	</select>
 
 	<select id="selectSampleListTotCnt" parameterType="searchVO" resultType="int">
