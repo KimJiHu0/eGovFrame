@@ -11,3 +11,10 @@ https://www.notion.so/04-eGovFrame-Customizing-UI-36619d85d8d440a9af26b54a5ec4fa
 
 **eGovFrame Customizing - Insert**
 https://www.notion.so/05-eGovFrame-Customizing-Insert-3ba42781897344788570dfdb4f727b78
+
+**eGovFrame Customizing - Update**
+https://www.notion.so/06-eGovFrame-Customizing-Update-9d31cd5dd58c444ab1dc27e92262c112
+
+**eGovFrame Customizing - Delete**
+https://www.notion.so/07-eGovFrame-Customizing-Delete-afce282b8500441ab3042b5b6a9acbbc
+
