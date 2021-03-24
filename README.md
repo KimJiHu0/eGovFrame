@@ -18,3 +18,7 @@ https://www.notion.so/06-eGovFrame-Customizing-Update-9d31cd5dd58c444ab1dc27e922
 **eGovFrame Customizing - Delete**
 https://www.notion.so/07-eGovFrame-Customizing-Delete-afce282b8500441ab3042b5b6a9acbbc
 
+
+
+**eGovFrame Common Component Login - Bean 설정**
+https://www.notion.so/02-01-eGovFrame-Common-Component-Login-Bean-84092010ac814bbb84c29f71eeb48e0a
